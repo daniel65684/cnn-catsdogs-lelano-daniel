@@ -1,0 +1,24 @@
+# Données (à télécharger, jamais versionnées)
+Cat_Dog_data/
+data/
+*.zip
+__MACOSX/
+.DS_Store
+
+# Modèles et journaux
+*.pt
+*.pth
+checkpoints/
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Éditeurs
+.vscode/
+.idea/

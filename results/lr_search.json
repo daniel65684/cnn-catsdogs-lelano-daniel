@@ -1,0 +1,38 @@
+[
+  {
+    "optimizer": "sgd",
+    "lr": 0.1,
+    "val_accuracy": 0.47,
+    "val_loss": 1548.7149609375
+  },
+  {
+    "optimizer": "sgd",
+    "lr": 0.01,
+    "val_accuracy": 0.47,
+    "val_loss": 0.7408842086791992
+  },
+  {
+    "optimizer": "sgd",
+    "lr": 0.001,
+    "val_accuracy": 0.47,
+    "val_loss": 0.6951197576522827
+  },
+  {
+    "optimizer": "adam",
+    "lr": 0.001,
+    "val_accuracy": 0.47,
+    "val_loss": 0.8016003656387329
+  },
+  {
+    "optimizer": "adam",
+    "lr": 0.0003,
+    "val_accuracy": 0.47,
+    "val_loss": 0.7417343640327454
+  },
+  {
+    "optimizer": "adam",
+    "lr": 0.0001,
+    "val_accuracy": 0.47,
+    "val_loss": 0.6981401991844177
+  }
+]
